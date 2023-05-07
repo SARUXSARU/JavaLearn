@@ -1,3 +1,3 @@
 # JavaLearn
 
-There is a staart of my adventure with JAVA 
+There is a start of my adventure with JAVA 
